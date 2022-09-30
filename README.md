@@ -16,21 +16,26 @@ It includes 3 features which are SAVE INPUT, SAVE TAB, and DELETE ALL.
 
 ![image](https://user-images.githubusercontent.com/63050857/193263643-fb75eb97-55a5-4c90-994f-d4f04d4f56f2.png)
 
+
 > 2.Go to [chrome://extensions/](chrome://extensions/)
+
 
 > 3.Turn the developer mode on
 
 ![image](https://user-images.githubusercontent.com/63050857/193264831-6a7c9adf-9fbf-4251-8210-82a9a27e3d7d.png)
 
+
 > 4.Click on the load unpacked
 
 ![image](https://user-images.githubusercontent.com/63050857/193265042-7e3095a7-e5c0-4441-856e-8ac9441d7e36.png)
+
 
 > 5.Choose the downloaded file 
 
 ![image](https://user-images.githubusercontent.com/63050857/193265499-1b278e38-fb48-4094-9c83-4e42417b35bf.png)
 
-> The tool will be in the extensions' interface 
+
+### The tool will be in the extensions' interface 
 
 ![image](https://user-images.githubusercontent.com/63050857/193265864-10cbd045-fd60-47ad-aca5-494b5cb64c98.png)
 

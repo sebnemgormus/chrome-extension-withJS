@@ -16,7 +16,7 @@ It includes 3 features which are SAVE INPUT, SAVE TAB, and DELETE ALL.
 
 ![image](https://user-images.githubusercontent.com/63050857/193263643-fb75eb97-55a5-4c90-994f-d4f04d4f56f2.png)
 
-> 2.Go to chrome://extensions/
+> 2.Go to [chrome://extensions/](chrome://extensions/)
 
 > 3.Turn the developer mode on
 
